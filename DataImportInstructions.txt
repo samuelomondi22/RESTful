@@ -1,0 +1,7 @@
+To import Book data into your mongodb database
+Make sure mongodb is running then
+run 'mongo bookAPL< books.Json.js' from the CLI
+
+HTTP METHODS
+GET - retrieve represenattion/info only
+GET API making multiple identical requests must produce same results every time
